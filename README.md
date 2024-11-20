@@ -4,8 +4,8 @@
 Bu proje, Aygaz Veri Analisti Bootcamp kapsamında geliştirilmiş bir çalışmadır. Proje, veri analizi ve görselleştirme yoluyla anlamlı içgörüler elde etmeyi hedeflemektedir. Python ile veri ön işleme, keşifsel veri analizi (EDA) ve görselleştirme adımları gerçekleştirilmiştir.
 
 GitHub ve Kaggle projelerine aşağıdaki bağlantılardan ulaşabilirsiniz:
-- [GitHub: Aygaz Data Analyst Bootcamp](https://github.com/erenyurtcu/Aygaz-Data-Analysis-Bootcamp)
-- [Kaggle: Aygaz Data Analyst Bootcamp](https://www.kaggle.com/code/erenyurtcu/aygaz-data-analyst-bootcamp)
+- GitHub: [Aygaz Data Analyst Bootcamp](https://github.com/erenyurtcu/Aygaz-Data-Analysis-Bootcamp)
+- Kaggle: [Aygaz Data Analyst Bootcamp](https://www.kaggle.com/code/erenyurtcu/aygaz-data-analyst-bootcamp)
 
 ## 📂 Dosya Yapısı
 - `aygaz_data_analyst_bootcamp.py`: Tüm analizlerin ve görselleştirmelerin yer aldığı Python dosyası.
